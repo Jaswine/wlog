@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生活·记录</title>
+    <link>https://jaswine.com/life/</link>
+    <description>Recent content on 生活·记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Sep 2017 15:57:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://jaswine.com/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>买房小记</title>
+      <link>https://jaswine.com/life/house/</link>
+      <pubDate>Sat, 23 Sep 2017 15:57:11 +0800</pubDate>
+      
+      <guid>https://jaswine.com/life/house/</guid>
+      <description>人家大四的时候忙着找工作，找完工作就开始放飞自我享受最后的大学时光了。而我，因为自学转行，白天忙着去实习，晚上回来还要看书，我的大四是大学中学习最多的时光。
+本来已经很忙，但是江南的房价实在感人，准备仓仓促促的上车，2017年4月开始看房，参加抽签抢房大战，没抢到，换另外一个楼盘，6月付首付。感觉自己还小，但是突然名下有了房产，刚毕业还是小萌新的时候就当了房奴。记录一下买房资金记录。
+   品名 单价 数量 参数 合计 实缴     房屋 11998 124.93 1 1498910.14 1498910.14   团购费 15000 1 1 15000 15000   车位 100000 2 1 200000 200000   契税 1498910.14 1 0.015 22483.6521 22484   大修基金 90 124.93 1 11243.7 11243   物业费 2.6 124.93 12 3897.816 3898   代办费 500 1 1 500 500   水电预交费 300 1 1 300 300   车位管理费 50 12 2 1200    装修电梯使用费 3 124.</description>
+    </item>
+    
+  </channel>
+</rss>
