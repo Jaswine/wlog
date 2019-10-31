@@ -3,14 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jaswine.com/life/house/</loc>
-    <lastmod>2017-09-23T15:57:11+08:00</lastmod>
+    <loc>https://jaswine.com/life/202030list/</loc>
+    <lastmod>2019-10-31T15:57:11+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jaswine.com/life/</loc>
-    <lastmod>2017-09-23T15:57:11+08:00</lastmod>
+    <lastmod>2019-10-31T15:57:11+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaswine.com/life/meeting/</loc>
+    <lastmod>2019-10-19T01:59:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaswine.com/life/30day/</loc>
+    <lastmod>2019-10-05T01:59:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaswine.com/life/house/</loc>
+    <lastmod>2017-09-23T15:57:11+08:00</lastmod>
   </url>
   
   <url>
